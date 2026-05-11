@@ -127,6 +127,22 @@ Namun pada repository portfolio ini, fokus utama adalah dokumentasi sistem dan s
 
 ---
 
+## File Project
+
+File utama sistem tersedia dalam format:
+
+- `GlobalMusicSystem.rbxm`
+
+File tersebut berisi:
+- GUI
+- RemoteEvents
+- Music system
+- Playlist system
+- Multiplayer synchronization
+- DJ Mode system
+
+---
+
 ## Status
 
 Archived / Portfolio Project
