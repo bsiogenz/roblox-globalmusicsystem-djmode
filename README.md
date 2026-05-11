@@ -1,4 +1,4 @@
-# roblox-globalmusicsystem-djmode
+# Roblox GlobalMusicSystem DJ Mode
 
 Sistem musik modular untuk Roblox dengan fitur DJ Mode, realtime queue system, vote skip, dan sinkronisasi multiplayer.
 
